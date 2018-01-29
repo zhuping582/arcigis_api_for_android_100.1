@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Fortsätt</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Tjänsten har begärt ett klientcertifikat för att autentisera dig, vilket kräver en säker låsskärm. Om du stänger denna dialogruta öppnas en Android-dialogruta där du antingen kan avbryta eller ändra din säkerhetstyp och därefter ange ett certifikat.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Ett klientcertifikat har efterfrågats</string>
+    <string formatted="false" name="arcgisruntime_created_by">Skapad av %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Skapades av %s %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Skapades av %s %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Skapades av %s för en timme sedan</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Skapades av %s för %d timmar sedan</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Skapades av %s för en minut sedan</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Skapades av %s för %d minuter sedan</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Skapades av %s för några sekunder sedan</string>
+    <string formatted="false" name="arcgisruntime_created_day">Skapades av %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Skapades av %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Skapades för en timme sedan</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Skapades för %d timmar sedan</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Skapades för någon minut sedan</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Skapades för %d minuter sedan</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Skapades för några sekunder sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Redigerades av %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Redigerades av %s %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Redigerades av %s %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Redigerades av %s för en timme sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Redigerades av %s för %d timmar sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Redigerades av %s för en minut sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Redigerades av %s för %d minuter sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Redigerades av %s för några sekunder sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Redigerades %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Redigerades %s kl %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Redigerade för en timme sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Redigerades för %d timmar sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Redigerades för en minut sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Redigerades för %d minuter sedan</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Redigerades för några sekunder sedan</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Värdet överstiger den maximala fältlängden %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Nullvärde tillåts inte för fältet med namnet %s"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Avbryt</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Logga in</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Lösenord</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Authentication Required</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Hämtningen är klar</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s till %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Block</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Trust</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Denna server kunde inte autentisera sig: dess säkerhetscertifikat är från en annan domän. Det kan bero på en felaktig konfiguration eller på att en angripare spärrar anslutningen. Vill du fortsätta ändå?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Värdnamnet stämmer inte</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Kommer du ihåg?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Denna server kunde inte autentisera sig: dess säkerhetscertifikat betraktas inte som tillförlitligt av ditt operativsystem. Vill du fortsätta ändå?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Värden är inte tillförlitlig</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Radera</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Ta bort brytpunkt</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+</resources>

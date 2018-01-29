@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Fortsett</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Tjenesten har bedt om et klientsertifikat for å godkjenne deg, noe som krever en sikker låseskjerm. Når du lukker denne dialogboksen, åpnes en Android-dialogboks der du kan avbryte eller endre sikkerhetstypen, slik at du kan angi et sertifikat.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Klientsertifikat forespurt</string>
+    <string formatted="false" name="arcgisruntime_created_by">Opprettet av %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Opprettet av %s på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Opprettet av %s på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Opprettet av %s for en time siden</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Opprettet av %s for %d timer siden</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Opprettet av %s for et minutt siden</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Opprettet av %s for %d minutter siden</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Opprettet av %s for sekunder siden</string>
+    <string formatted="false" name="arcgisruntime_created_day">Opprettet på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Opprettet på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Opprettet for en time siden</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Opprettet for %d timer siden</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Opprettet for et minutt siden</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Opprettet for %d minutter siden</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Opprettet for sekunder siden</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Redigert av %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Redigert av %s på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Redigert av %s på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Redigert av %s for en time siden</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Redigert av %s for %d timer siden</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Redigert av %s for et minutt siden</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Redigert av %s for %d minutter siden</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Redigert av %s for sekunder siden</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Redigert på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Redigert på %s kl. %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Redigert for en time siden</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Redigert for %d timer siden</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Redigert for et minutt siden</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Redigert for %d minutter siden</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Redigert for sekunder siden</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Verdien overstiger maksimal feltlengde på %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Nullverdi er ikke tillatt i feltet `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Avbryt</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Logg på</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Passord</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Krever godkjenning</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Brukernavn</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s til %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokker</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Klarer</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Serveren kunne ikke godkjennes. Serverens sikkerhetssertifikat stammer fra et annet domene. Dette kan skyldes feil konfigurasjon eller at tilkoblingen har vært utsatt for nettangrep. Vil du fortsette likevel?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Hostnavn stemmer ikke overens</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Huske?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Serveren kunne ikke godkjennes. Sikkerhetssertifikatet er ikke klarert i operativsystemet. Vil du fortsette likevel?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Uklarert host</string>
+</resources>

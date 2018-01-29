@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="app_name">Android API’si</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Devam</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Servis, kimliğinizi doğrulamak için ayrıca güvenli bir ekran kilidi de gerektiren bir istemci sertifikası istedi. Bu iletişim kutusunun kapatılması, bir iletişim kutusu açar, burada güvenlik türünüzü iptal edebilir veya değiştirebilirsiniz, bu da bir sertifika belirtmenize olanak tanır.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">İstemci Sertifikası İstendi</string>
+    <string formatted="false" name="arcgisruntime_created_by">%s tarafından oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">%s tarafından %s tarihinde şu saatte oluşturuldu: %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">%s tarafından %s tarihinde şu saatte oluşturuldu: %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">%s tarafından bir saat önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">%s tarafından %d saat önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">%s tarafından bir dakika önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">%s tarafından %d dakika önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">%s tarafından birkaç saniye önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_day">%s tarafından %s tarihinde oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_full">%s tarafından %s tarihinde oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Bir saat önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_hours">%d saat önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Bir dakika önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">%d dakika önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Birkaç saniye önce oluşturuldu</string>
+    <string formatted="false" name="arcgisruntime_edited_by">%s tarafından düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">%s tarafından %s tarihinde şu saatte düzenlendi: %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">%s tarafından %s tarihinde şu saatte düzenlendi: %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">%s tarafından bir saat önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">%s tarafından %d saat önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">%s tarafından bir dakika önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">%s tarafından %d dakika önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">%s tarafından birkaç saniye önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_day">%s tarafından %s tarihinde düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_full">%s tarafından %s tarihinde düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Bir saat önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">%d saat önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Bir dakika önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">%d dakika önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Birkaç saniye önce düzenlendi</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Değer %d maksimum alan uzunluğunu aşıyor</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Null değerine `%s` adlı alan için izin verilmiyor"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">İptal</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Oturum aç</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Parola</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Kimlik Denetimi Gerekiyor</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Kullanıcı Adı</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s / %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Engelle</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Güven</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Bu sunucu kendi kimliğini kanıtlayamıyor; güvenlik sertifikası başka bir domainden geliyor. Bunun nedeni hatalı bir yapılandırma veya bağlantınıza müdahale etmeye çalışan bir saldırgan olabilir. Yine de devam etmek istiyor musunuz?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Eşleşmeyen Ana Makine Adı</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Anımsansın mı?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Bu sunucu kendi kimliğini kanıtlayamıyor; işletim sisteminiz sunucunun güvenlik sertifikasına güvenmiyor. Yine de devam etmek istiyor musunuz?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Güvenilmeyen Ana Makine</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Temizle</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Düğümü Kaldır</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

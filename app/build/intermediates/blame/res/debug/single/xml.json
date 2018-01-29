@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\unit_test_callout_style_fully_populated.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\xml\\unit_test_callout_style_fully_populated.xml"
+    },
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\unit_test_callout_style_partially_populated.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\xml\\unit_test_callout_style_partially_populated.xml"
+    },
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\unit_test_callout_style_element_missing.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\xml\\unit_test_callout_style_element_missing.xml"
+    },
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\unit_test_callout_style_empty.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\xml\\unit_test_callout_style_empty.xml"
+    }
+]

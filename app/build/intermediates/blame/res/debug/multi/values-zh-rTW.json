@@ -1,0 +1,1375 @@
+[
+    {
+        "outputFile": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 94,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 94,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 106,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 106,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 122,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 122,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 92,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 92,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 99,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 99,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 81,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 81,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 96,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 96,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 107,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 107,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 75,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 75,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 75,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 75,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 77,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 77,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 95,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 95,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 95,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 95,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 94,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 94,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 96,
+                    "endOffset": 1469
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 96,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1474,
+                    "endColumn": 94,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 94,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 99,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 99,
+                        "endOffset": 1664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 112,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1669,
+                        "endColumn": 112,
+                        "endOffset": 1777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 93,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1782,
+                        "endColumn": 93,
+                        "endOffset": 1871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 48,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 79,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 79,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 144,
+                    "endOffset": 2145
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 144,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2150,
+                    "endColumn": 75,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 75,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endColumn": 78,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 78,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 95,
+                    "endOffset": 2396
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 95,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2401,
+                    "endColumn": 96,
+                    "endOffset": 2493
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 96,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2498,
+                    "endColumn": 88,
+                    "endOffset": 2582
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 88,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2587,
+                    "endColumn": 92,
+                    "endOffset": 2675
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 92,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2680,
+                    "endColumn": 90,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 90,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endColumn": 94,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 94,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endColumn": 91,
+                    "endOffset": 2953
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 91,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2958,
+                    "endColumn": 87,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 87,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 88,
+                    "endOffset": 3130
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 88,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3135,
+                    "endColumn": 80,
+                    "endOffset": 3211
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endColumn": 80,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3216,
+                    "endColumn": 84,
+                    "endOffset": 3296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 84,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3301,
+                    "endColumn": 82,
+                    "endOffset": 3379
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 82,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3384,
+                    "endColumn": 86,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1563,
+                        "endColumn": 86,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endColumn": 83,
+                    "endOffset": 3550
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 83,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3555,
+                    "endColumn": 77,
+                    "endOffset": 3628
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 77,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3633,
+                    "endColumn": 94,
+                    "endOffset": 3723
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1812,
+                        "endColumn": 94,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3728,
+                    "endColumn": 95,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 95,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endColumn": 87,
+                    "endOffset": 3907
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 87,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3912,
+                    "endColumn": 91,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 91,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 89,
+                    "endOffset": 4089
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2183,
+                        "endColumn": 89,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4094,
+                    "endColumn": 93,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endColumn": 93,
+                        "endOffset": 2362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 90,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2367,
+                        "endColumn": 90,
+                        "endOffset": 2453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endColumn": 86,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2458,
+                        "endColumn": 86,
+                        "endOffset": 2540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 87,
+                    "endOffset": 4449
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2545,
+                        "endColumn": 87,
+                        "endOffset": 2628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4454,
+                    "endColumn": 79,
+                    "endOffset": 4529
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2633,
+                        "endColumn": 79,
+                        "endOffset": 2708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4534,
+                    "endColumn": 83,
+                    "endOffset": 4613
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2713,
+                        "endColumn": 83,
+                        "endOffset": 2792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4618,
+                    "endColumn": 81,
+                    "endOffset": 4695
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2797,
+                        "endColumn": 81,
+                        "endOffset": 2874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4700,
+                    "endColumn": 85,
+                    "endOffset": 4781
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2879,
+                        "endColumn": 85,
+                        "endOffset": 2960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4786,
+                    "endColumn": 82,
+                    "endOffset": 4864
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2965,
+                        "endColumn": 82,
+                        "endOffset": 3043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4869,
+                    "endColumn": 97,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3048,
+                        "endColumn": 97,
+                        "endOffset": 3141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 91,
+                    "endOffset": 5054
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3146,
+                        "endColumn": 91,
+                        "endOffset": 3233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5059,
+                    "endColumn": 85,
+                    "endOffset": 5140
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3238,
+                        "endColumn": 85,
+                        "endOffset": 3319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5145,
+                    "endColumn": 85,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3324,
+                        "endColumn": 85,
+                        "endOffset": 3405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 83,
+                    "endOffset": 5310
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3410,
+                        "endColumn": 83,
+                        "endOffset": 3489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5315,
+                    "endColumn": 81,
+                    "endOffset": 5392
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3494,
+                        "endColumn": 81,
+                        "endOffset": 3571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5397,
+                    "endColumn": 86,
+                    "endOffset": 5479
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3576,
+                        "endColumn": 86,
+                        "endOffset": 3658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5484,
+                    "endColumn": 87,
+                    "endOffset": 5567
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3663,
+                        "endColumn": 87,
+                        "endOffset": 3746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5572,
+                    "endColumn": 79,
+                    "endOffset": 5647
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3751,
+                        "endColumn": 79,
+                        "endOffset": 3826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5652,
+                    "endColumn": 79,
+                    "endOffset": 5727
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3831,
+                        "endColumn": 79,
+                        "endOffset": 3906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5732,
+                    "endColumn": 132,
+                    "endOffset": 5860
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3911,
+                        "endColumn": 132,
+                        "endOffset": 4039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5865,
+                    "endColumn": 85,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4044,
+                        "endColumn": 85,
+                        "endOffset": 4125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 73,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4130,
+                        "endColumn": 73,
+                        "endOffset": 4199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6025,
+                    "endColumn": 112,
+                    "endOffset": 6133
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4204,
+                        "endColumn": 112,
+                        "endOffset": 4312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6138,
+                    "endColumn": 84,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4317,
+                        "endColumn": 84,
+                        "endOffset": 4397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 71,
+                    "endOffset": 6290
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4402,
+                        "endColumn": 71,
+                        "endOffset": 4469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6295,
+                    "endColumn": 81,
+                    "endOffset": 6372
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4474,
+                        "endColumn": 81,
+                        "endOffset": 4551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6377,
+                    "endColumn": 77,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 77,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 100,
+                    "endOffset": 6551
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endColumn": 100,
+                        "endOffset": 2050
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्यपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="app_name">एंड्रॉइड API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">जारी रखें</string>
+    <string name="arcgisruntime_client_cert_dialog_message">आपका प्रमाणीकरण करने के लिए सर्विस ने ग्राहक प्रमाणपत्र का अनुरोध किया है, जिसके लिए एक सुरक्षित लॉकस्क्रीन ज़रूरी है। यह डायलॉग बंद करने पर एक एंड्रॉइड डायलॉग खुलेगा, जहां आप अपना सुरक्षा प्रकार रद्द या बदल सकते हैं, जिससे आप कोई प्रमाणपत्र निर्दिष्ट कर पाएंगे।</string>
+    <string name="arcgisruntime_client_cert_dialog_title">ग्राहक प्रमाणपत्र का अनुरोध किया गया है</string>
+    <string formatted="false" name="arcgisruntime_created_by">%s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">%s द्वारा %s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">%s द्वारा %s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">एक घंटा पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">%d घंटे पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">एक मिनट पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">%s द्वारा %d मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">कुछ सेकंड पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_day">%s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_full">%s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_hour">एक घंटा पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_hours">%d घंटों पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_minute">एक मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">%d मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">कुछ सेकंड पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_edited_by">%s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">%s द्वारा %s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">%s द्वारा %s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">एक घंटा पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">%d घंटे पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">एक मिनट पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">%d मिनट पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">कुछ सेकंड पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_day">%s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_full">%s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">एक घंटा पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">%d घंटों पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">एक मिनट पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">%d मिनट पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">कुछ सेकंड पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">मान %d के अधिकतम क्षेत्र दैर्घ्य से अधिक है</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">" `%s` नामक फील्ड के लिए शून्य मान की अनुमति नहीं है"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">रद्द करें</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">लॉग इन करें</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">पासवर्ड</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">प्रमाणीकरण अपेक्षित है</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">यूजरनेम</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s से %s तक</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">ब्लॉक</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">भरोसा</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">यह सर्वर स्वयं को सिद्ध करने में अक्षम रहा; इसका सुरक्षा प्रमाणपत्र किसी दूसरे डोमेन से है। यह गलत कॉन्फ़िगरेशन या आपके कनेक्शन में हमलावर के दखल के कारण हुआ होगा। क्या आप फिर भी जारी रखना चाहते हैं?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">बेमेल होस्टनेम</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">याद है?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">यह सर्वर स्वयं को सिद्ध करने में अक्षम रहा; आपके OS ने इसके सुरक्षा प्रमाणपत्र पर भरोसा नहीं जताया है। क्या आप फिर भी जारी रखना चाहते हैं?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">अविश्वसनीय होस्ट</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">हटाएँ</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">शिरोबिंदु निकालें</string>
+    <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

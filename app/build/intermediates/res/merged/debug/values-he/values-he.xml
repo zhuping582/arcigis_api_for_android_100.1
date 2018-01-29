@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">המשך</string>
+    <string name="arcgisruntime_client_cert_dialog_message">השירות ביקש אישור לקוח כדי לאמת את הזהות שלך. לשם כך יש צורך במסך נעילה מאובטח. סגירת תיבת הדו-שיח הזו תפתח תיבת דו-שיח של Android שבה תוכל לבטל או לשנות את סוג האבטחה. שינוי זה יאפשר לך לספק אישור.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">התבקש אישור לקוח</string>
+    <string formatted="false" name="arcgisruntime_created_by">נוצר על ידי %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">נוצר על ידי %s ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">נוצר על ידי %s ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">נוצר על ידי %s לפני כשעה</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">נוצר על ידי %s לפני %d שעות</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">נוצר על ידי %s לפני דקה</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">נוצר על ידי %s לפני %d שניות</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">נוצר על ידי %s לפני מספר שניות</string>
+    <string formatted="false" name="arcgisruntime_created_day">נוצר ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_created_full">נוצר ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">נוצר לפני שנה</string>
+    <string formatted="false" name="arcgisruntime_created_hours">נוצר לפני %d שעות</string>
+    <string formatted="false" name="arcgisruntime_created_minute">נוצר לפני דקה אחת</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">נוצר לפני %d דקות</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">נוצר לפני מספר שניות</string>
+    <string formatted="false" name="arcgisruntime_edited_by">נערך על ידי %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">נערך על ידי %s ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">נערך על ידי %s ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">נערך על ידי %s לפני כשעה</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">נערך על ידי %s לפני %d שעות</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">נערך על ידי %s לפני דקה</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">נערך על ידי %s לפני %d דקות</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">נערך על ידי %s לפני מספר שניות</string>
+    <string formatted="false" name="arcgisruntime_edited_day">נערך ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">נערך ב-%s ב-%s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">נערך לפני שעה</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">נערך לפני %d שעות</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">נערך לפני דקה</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">נערך לפני %d דקות</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">נערך לפני מספר שניות</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">הערך חורג מאורך השדה של %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"ערך Null אינו מותר עבור קובץ בשם `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">בטל</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">התחבר</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">סיסמה</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">נדרש אימות</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">שם משתמש</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s עד %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">בלוק</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Trust</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">השרת הזה לא הצליח להוכיח את זהותו. אישור האבטחה שלו הוא מדומיין אחר. ייתכן שהסיבה לכך היא תצורה שגויה או תוקף המיירט את החיבור שלך. האם ברצונך להמשיך בכל זאת?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">חוסר התאמה בשם המארח</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">האם לזכור?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">השרת הזה לא הצליח להוכיח את זהותו. אישור האבטחה שלו אינו מוכר כמהימן על-ידי מערכת ההפעלה שלך. האם ברצונך להמשיך בכל זאת?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">מארח לא מהימן</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">נקה</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">הזז שוב נקודת מפנה</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="app_name">API AAPI de Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Continuar</string>
+    <string name="arcgisruntime_client_cert_dialog_message">El servicio ha solicitado un certificado de cliente para autenticarle y se necesita además una pantalla de bloqueo segura. Al cerrar este cuadro de diálogo se abrirá un cuadro de diálogo de Android en el que puede cancelar o cambiar su tipo de seguridad, lo que le permitirá especificar un certificado.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Certificado de cliente solicitado</string>
+    <string formatted="false" name="arcgisruntime_created_by">Creado por %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Creado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Creado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Creado por %s hace una hora</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Creado por %s hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Creado por %s hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Creado por %s hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Creado por %s hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_created_day">Creado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Creado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Creado hace una hora</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Creado hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Creado hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Creado hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Creado hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Editado por %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Editado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Editado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Editado por %s hace una hora</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Editado por %s hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Editado por %s hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Editado por %s hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Editado por %s hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Editado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Editado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Editado hace una hora</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Editado hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Editado hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Editado hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Editado hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">El valor excede la longitud máxima de campo de %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"El valor nulo no se admite para el campo llamado`%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Cancelar</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Iniciar sesión</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Contraseña</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Autenticación requerida</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Nombre de usuario</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s a %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Bloque</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Confianza</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Este servidor no ha podido probarse a sí mismo; su certificado de seguridad es de otro dominio. Esto puede deberse a una diferencia de configuración o a que un intruso ha interceptado su conexión. ¿Desea continuar de todas formas?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">El nombre de host no coincide</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">¿Recuerda?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Este servidor no ha podido probarse a sí mismo; su sistema operativo no confía en el certificado de seguridad. ¿Desea continuar de todas formas?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Host no de confianza</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Borrar</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Eliminar vértice</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+</resources>

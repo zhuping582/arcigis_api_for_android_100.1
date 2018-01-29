@@ -1,0 +1,7 @@
+#Mon Jan 29 15:07:39 CST 2018
+base.0=E\:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca6c55bdaec316b7d9afa3087295723ca3efb459
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b927cec2148c361caba8440022d4bc181334225\\classes.dex
+base.1=E\:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b927cec2148c361caba8440022d4bc181334225
+file.0=E\:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca6c55bdaec316b7d9afa3087295723ca3efb459\\classes.dex

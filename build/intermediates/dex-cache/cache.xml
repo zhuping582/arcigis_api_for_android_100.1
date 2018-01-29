@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\testProjects\GoogleLayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="30d710a4020fbbe550bf4f394698b85caacfedd0">
+        <dex dex="E:\project\testProjects\GoogleLayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b927cec2148c361caba8440022d4bc181334225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8871a2c4705bd5ed9895371bf52bbd5cf67bc4a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="478fdcdd380ee2bd7f713110bd47a67d53d795af">
+        <dex dex="E:\project\testProjects\GoogleLayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8624e00253913748192e0c7889c7c02727248695\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\testProjects\GoogleLayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\project\testProjects\GoogleLayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca6c55bdaec316b7d9afa3087295723ca3efb459\classes.dex" />
+    </item>
+
+</items>

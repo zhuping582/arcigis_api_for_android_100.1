@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\project\\testProjects\\GoogleLayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\testProjects\\GoogleLayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\project\\testProjects\\GoogleLayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

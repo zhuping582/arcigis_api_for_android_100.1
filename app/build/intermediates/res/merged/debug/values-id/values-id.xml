@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Lanjutkan</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Service meminta sertifikat klien untuk mengautentikasi Anda, yang kemudian memerlukan kunci layar yang aman. Menutup dialog ini akan membuka dialog Android yang mana Anda dapat membatalkan atau mengubah jenis keamanan, yang memungkinkan Anda menentukan sertifikat.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Sertifikat Klien Diminta</string>
+    <string formatted="false" name="arcgisruntime_created_by">Dibuat oleh %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Dibuat oleh %s pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Dibuat oleh %s pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Dibuat oleh %s satu jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Dibuat oleh %s %d jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Dibuat oleh %s satu menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Dibuat oleh %s %d menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Dibuat oleh %s detik yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_day">Dibuat pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Dibuat pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Dibuat satu jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Dibuat %d jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Dibuat semenit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Dibuat %d menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Dibuat beberapa detik yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Diedit oleh %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Diedit oleh %s pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Diedit oleh %s pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Diedit oleh %s satu jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Diedit oleh %s %d jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Diedit oleh %s satu menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Diedit oleh %s %d menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Diedit oleh %s detik yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Diedit pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Diedit pada hari %s pukul %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Diedit satu jam yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Diedit %d jam lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Diedit satu menit yang lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Diedit %d menit lalu</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Diedit beberapa detik yang lalu</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Nilai melampaui panjang kolom maksimum sebesar %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Nilai null tidak diperbolehkan untuk kolom dengan nama `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Batal</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Masuk</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Kata Sandi</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Diperlukan Autentikasi</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Nama Pengguna</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s hingga %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokir</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Tepercaya</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Server ini tidak dapat membuktikan dirinya sendirinya; sertifikat keamanannya berasal dari domain lain. Hal ini mungkin dikarenakan salah konfigurasi atau penyerang yang menyadap koneksi Anda. Ingin tetap melanjutkan?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Nama Host Tidak Cocok</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Ingat?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Server ini tidak dapat membuktikan dirinya sendirinya; sertifikat keamanannya tidak dipercaya oleh OS Anda. Ingin tetap melanjutkan?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Host Tak Tepercaya</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Kosongkan</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Buang Verteks</string>
+</resources>

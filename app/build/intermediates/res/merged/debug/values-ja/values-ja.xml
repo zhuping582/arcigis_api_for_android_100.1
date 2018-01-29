@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">続行</string>
+    <string name="arcgisruntime_client_cert_dialog_message">ユーザーを認証するために、サービスがクライアント証明書を要求しました。さらにサービスでは、セキュリティで保護されたロック画面が必要です。 このダイアログを閉じると [Android] ダイアログが開いて、セキュリティ タイプをキャンセルまたは変更することができ、それによって、証明書を指定できるようになります。</string>
+    <string name="arcgisruntime_client_cert_dialog_title">クライアント証明書が要求されました</string>
+    <string formatted="false" name="arcgisruntime_created_by">%s が作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">%s が %s の %s に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">%s が %s の %s に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">%s が 1 時間前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">%s が %d 時間前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">%s が 1 分前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">%s が %d 分前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">%s が数秒前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_day">%s の %s に作成</string>
+    <string formatted="false" name="arcgisruntime_created_full">%s の %s に作成</string>
+    <string formatted="false" name="arcgisruntime_created_hour">1 時間前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_hours">%d 時間前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_minute">1 分前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">%d 分前に作成</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">数秒前に作成</string>
+    <string formatted="false" name="arcgisruntime_edited_by">%s が編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">%s が %s の %s に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">%s が %s の %s に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">%s が 1 時間前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">%s が %d 時間前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">%s が 1 分前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">%s が %d 分前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">%s が数秒前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_day">%s の %s に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_full">%s の %s に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">1 時間前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">%d 時間前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">1 分前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">%d 分前に編集</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">数秒前に編集</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">値が %d の最大フィールド長を超えています</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"NULL 値はフィールド名 `%s` には使用できません"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">キャンセル</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">ログイン</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">パスワード</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">認証が必要です</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">ユーザー名</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s から %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">ブロック</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">信頼</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">このサーバーは、自分自身を証明できませんでした。このサーバーのセキュリティ証明書は、別のドメインからのものです。 これは、不適切な設定または接続を妨害する攻撃者によって発生した可能性があります。 続行しますか？</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">一致しないホスト名</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">記憶しますか？</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">このサーバーは、自分自身を証明できませんでした。このサーバーのセキュリティ証明書は、OS によって信頼されていません。 続行しますか？</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">信頼できないホスト</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">消去</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">頂点削除</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
